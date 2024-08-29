@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-CA"
 title                    : "Aidan Lee"
 title_separator          : "-"
 name                     : &name "AidanLee"
 description              : &description "personal description"
-url                      : https://aidanmlee.github.io.git # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://aidanmlee.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aidanmlee/aidanmlee.github.io"
 
@@ -25,7 +25,7 @@ author:
   name             : "Aidan Lee"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Seeking Technical Writing Certification"
-  location         : "Vancouver, British Columbia, Canada"
+  location         : "Vancouver, Canada"
   employer         : 
   uri              : # URL
   email            : "lee.aidan.matthew@gmail.com" 
