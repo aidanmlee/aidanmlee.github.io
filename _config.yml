@@ -14,17 +14,17 @@ name                     : &name "AidanLee"
 description              : &description "personal description"
 url                      : https://aidanmlee.github.io.git # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/aidanmlee/aidanmlee.github.io"
+repository               : "aidanmlee/aidanmlee.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               If a field is blank the icbon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
   avatar           : "profilepic.jpeg"
   name             : "Aidan Lee"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Prospective Technical Writer"
+  bio              : "Seeking Technical Writing Certification"
   location         : "Vancouver, British Columbia, Canada"
   employer         : 
   uri              : # URL
