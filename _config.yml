@@ -309,9 +309,6 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-gems:
-  - jekyll-target-blank
-
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
