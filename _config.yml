@@ -300,7 +300,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-target-blank
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -309,6 +308,8 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+gems:
+  - jekyll-target-blank
 
 # Archives
 #  Type
