@@ -15,6 +15,7 @@ The help system may also be useful to people returning to Persona 5 Royal or for
 
 The design of the help system was inspired by Persona 5 Royal's visual cues and UI, aiming to make it feel like a seamless part of the game.
 
-The PDF version may be viewed [here](/files/Persona5PDF.pdf)
-
+The PDF version may be viewed [here.](/files/Persona5PDF.pdf)
+The presentation for the project can be viewed [here.](https://drive.google.com/file/d/1v2sUBNXHkOo29Kulj-IaohZ5evNTxexx/view?usp=sharing)
+If you are able to view MadCap Flare files, you may view the original file [here.](/files/Persona5Royal.flprjzip)
 
